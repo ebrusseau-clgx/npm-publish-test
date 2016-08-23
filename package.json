@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/ebrusseau-clgx/npm-publish-test.git"
   },
-  "author": "",
+  "author": {
+    "name": "Eric Brusseau",
+    "email: "ebrusseau@corelogic.com",
+    "url": "http://www.corelogic.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ebrusseau-clgx/npm-publish-test/issues"
